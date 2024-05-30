@@ -43,13 +43,9 @@ body
 {
     border-bottom: 1px solid black;
     border-right: 1px solid black;
-    /* border: 1px solid black; */
 }
 
-.changeColor
-{
-    background-color: red;
-}
+
 
 
 .btn
@@ -79,6 +75,7 @@ body
     height: var(--container-width);
     /* border: 1px solid red; */
 }
+
 
 
 input[type='color']
